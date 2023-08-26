@@ -1,0 +1,13 @@
+.dialog-content {
+  width: 100%;
+}
+
+.row {
+  display: flex; /* Make sure it's flex */
+  align-items: center;
+}
+
+.flex-fill {
+  flex: 1;
+  margin-right: 16px; /* Add some spacing between form fields */
+}
