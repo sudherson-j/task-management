@@ -39,6 +39,36 @@ export class TaskListComponent implements OnInit {
           title: 'To conduct sprint retrosprective',
           status: 'Completed',
         },
+        {
+          id: 3,
+          title: 'To create figma design of dashboard',
+          status: 'Pending',
+        },
+        {
+          id: 4,
+          title: 'To add dashbord feature with multiple charts',
+          status: 'Completed',
+        },
+        {
+          id: 5,
+          title: 'To do database configuration for microservices',
+          status: 'Pending',
+        },
+        {
+          id: 6,
+          title: 'To create websockets for all notification kind of things',
+          status: 'Completed',
+        },
+        {
+          id: 7,
+          title: 'To do full calendar view with multiple event creation',
+          status: 'Pending',
+        },
+        {
+          id: 8,
+          title: 'To add angular components for home page',
+          status: 'Completed',
+        },
         // Add more tasks here
       ]);
     }
